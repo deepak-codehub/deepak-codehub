@@ -1,15 +1,20 @@
 # Hi 👋, I'm Deepak Vishwakarma
 
-<h3 align="center">Web Developer | Frontend Developer | UI/UX Designer | Data Analytics Enthusiast</h3>
+<h3 align="center">Web Developer • Frontend Developer • UI/UX Designer • Data Analytics Enthusiast</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Deepak%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Deepak%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Web+Developer;Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Web+Developer;Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
+</p>
+
+<p align="center">
+<a href="https://github.com/deepak-codehub"><img src="https://img.shields.io/badge/GitHub-deepak--codehub-181717?style=for-the-badge&logo=github"></a>
+<a href="mailto:deepak0178159@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -30,25 +35,10 @@ I am a Computer Science Engineering student with a strong interest in building p
 
 ---
 
-## 🚀 Currently Learning
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- Power BI
-- React.js
-- Data Analytics
-
----
-
-## 💻 Tech Stack
-
-### Languages
-HTML5 • CSS3 • JavaScript • SQL • Python (Learning)
+# 🚀 Tech Stack
 
 ### Frontend
-React.js (Basic) • Tailwind CSS • Bootstrap
+HTML5 • CSS3 • JavaScript • React (Basic) • Bootstrap • Tailwind CSS
 
 ### Backend
 Node.js (Basic) • Express.js (Basic)
@@ -57,75 +47,58 @@ Node.js (Basic) • Express.js (Basic)
 MongoDB • SQL
 
 ### Data Analytics
-Excel • Pandas (Learning) • NumPy (Learning) • Power BI (Learning)
+Python (Learning) • Pandas • NumPy • Excel • Power BI (Learning)
 
 ### UI/UX
-Figma • Wireframing • Prototyping
-
-### CMS
-WordPress
+Figma • Wireframing • Prototyping • WordPress
 
 ### Tools
 Git • GitHub • VS Code • ChatGPT • Cursor AI • Google AI Studio
 
+---
 
+# 🌱 Currently Learning
 
-## 📜 Certifications
-
-- AWS Cloud Practitioner Virtual Internship
-- UI/UX Design Internship
-- Web Development Training
+- Python
+- Data Analytics
+- Power BI
+- React.js
+- DSA
+- SQL Optimization
 
 ---
 
-## 📈 GitHub Stats
+# 📂 Featured Projects
 
-> Replace `deepak-codehub` with your GitHub username.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-```
+- 🍔 Food Delivery Website
+- 🎓 E-Learning Website
+- 🌐 WorkLence Full stock application
+- 💬 Ice Cream web application 
+- 📊 Data Analytics Projects *(Coming Soon)*
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Stats
 
-```md
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-```
+![Stats](https://github-readme-stats.vercel.app/api?username=deepak-codehub&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-codehub&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=deepak-codehub&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak-codehub&theme=tokyo-night)](https://github.com/deepak-codehub)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deepak123vish/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepakvish0728/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak0178159@gmail.com) 
+# 📫 Connect With Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-
-
-
-
-
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 📧 Email: deepak0178159@gmail.com
-
+- GitHub: https://github.com/deepak-codehub
+- Email: deepak0178159@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deepakvish0728/
 ---
-![](https://github-readme-stats.vercel.app/api?username=deepak-codehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepak-codehub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-codehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=deepak-codehub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ **Thanks for visiting my profile!**
