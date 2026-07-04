@@ -88,11 +88,6 @@ Git • GitHub • VS Code • ChatGPT • Cursor AI • Google AI Studio
 
 ---
 
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak-codehub&theme=tokyo-night)](https://github.com/deepak-codehub)
-
----
 
 # 📫 Connect With Me
 
