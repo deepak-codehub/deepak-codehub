@@ -14,17 +14,19 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me:
 
 I am a Computer Science Engineering student with a strong interest in building practical software solutions and continuously improving my technical skills. I enjoy working on real-world projects and learning by doing, especially in areas related to application development, problem solving, and modern development workflows.<br><br>I am currently focused on strengthening my core computer science fundamentals while building projects with the support of AI tools to improve productivity and code quality. I like exploring how technology can be used to create efficient, user-friendly systems.<br><br>I am open to collaborating on beginner-friendly projects and learning from experienced developers. I am also actively working on improving my logical thinking, project structuring, and overall engineering mindset to prepare for an entry-level engineering role.<br><br>I believe in consistent learning, clean work practices, and growing step by step through hands-on experience.
-- 🎓 B.Tech Computer Science Engineering Graduate (2026)
-- 💻 Passionate about **Web Development** and **Frontend Development**
-- 🎨 Hands-on experience in **UI/UX Design** using **Figma**
-- 📊 Currently learning **Data Analytics, Python, SQL, Pandas, NumPy & Power BI**
-- 🤖 Exploring AI-assisted development using **ChatGPT, Cursor AI & Google AI Studio**
-- 🚀 Building practical projects and continuously improving my skills
-- 📍 Currently in **Bengaluru, India**
-- 💼 Open to **Web Developer, Frontend Developer, Data Analyst, Graduate Engineer Trainee and Entry-Level IT opportunities**
+
+
+ 🎓 B.Tech Computer Science Engineering Graduate (2026)
+ 💻 Passionate about **Web Development** and **Frontend Development**
+ 🎨 Hands-on experience in **UI/UX Design** using **Figma**
+ 📊 Currently learning **Data Analytics, Python, SQL, Pandas, NumPy & Power BI**
+ 🤖 Exploring AI-assisted development using **ChatGPT, Cursor AI & Google AI Studio**
+ 🚀 Building practical projects and continuously improving my skills
+ 📍 Currently in **Bengaluru, India**
+ 💼 Open to **Web Developer, Frontend Developer, Data Analyst, Graduate Engineer Trainee and Entry-Level IT opportunities**
 
 ---
 
@@ -66,17 +68,7 @@ WordPress
 ### Tools
 Git • GitHub • VS Code • ChatGPT • Cursor AI • Google AI Studio
 
----
 
-## 📂 Featured Projects
-
-- 🍔 Food Delivery Website
-- 🎓 E-Learning Platform
-- 🌐 Ice cream Web
-- 💬 WorkLence Web Application
-- 📊 Data Analytics Projects *(Coming Soon)*
-
----
 
 ## 📜 Certifications
 
@@ -117,19 +109,6 @@ Git • GitHub • VS Code • ChatGPT • Cursor AI • Google AI Studio
 - 📧 Email: deepak0178159@gmail.com
 
 ---
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-
-
-
-
-
-
-
-
-
-# 💫 About Me:
-I am a Computer Science Engineering student with a strong interest in building practical software solutions and continuously improving my technical skills. I enjoy working on real-world projects and learning by doing, especially in areas related to application development, problem solving, and modern development workflows.<br><br>I am currently focused on strengthening my core computer science fundamentals while building projects with the support of AI tools to improve productivity and code quality. I like exploring how technology can be used to create efficient, user-friendly systems.<br><br>I am open to collaborating on beginner-friendly projects and learning from experienced developers. I am also actively working on improving my logical thinking, project structuring, and overall engineering mindset to prepare for an entry-level engineering role.<br><br>I believe in consistent learning, clean work practices, and growing step by step through hands-on experience.
 
 
 ## 🌐 Socials:
